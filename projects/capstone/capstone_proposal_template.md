@@ -1,20 +1,25 @@
 # Machine Learning Engineer Nanodegree
 ## Capstone Proposal
-Joe Udacity  
-December 31st, 2050
+Abhiram kandiyana  
+February 26th, 2019
 
 ## Proposal
-_(approx. 2-3 pages)_
+
 
 ### Domain Background
 _(approx. 1-2 paragraphs)_
 
-In this section, provide brief details on the background information of the domain from which the project is proposed. Historical information relevant to the project should be included. It should be clear how or why a problem in the domain can or should be solved. Related academic research should be appropriately cited in this section, including why that research is relevant. Additionally, a discussion of your personal motivation for investigating a particular problem in the domain is encouraged but not required.
+After centuries of intense whaling, recovering whale populations still have a hard time adapting to warming oceans and struggle to compete every day with the industrial fishing industry for food.
+
+To aid whale conservation efforts, scientists use photo surveillance systems to monitor ocean activity. They use the shape of whales’ tails and unique markings found in footage to identify what species of whale they’re analyzing and meticulously log whale pod dynamics and movements. For the past 40 years, most of this work has been done manually by individual scientists, leaving a huge trove of data untapped and underutilized.
+In this project, I would build an algorithm to identify individual whales in images. I will analyze Happywhale’s database of over 25,000 images, gathered from research institutions and public contributors. By contributing to this project,I might help to open rich fields of understanding for marine mammal population dynamics around the globe.I'd like to thank Happywhale for providing this data and problem. Happywhale is a platform that uses image process algorithms to let anyone to submit their whale photo and have it automatically identified.This project is an active project at kaggle{https://www.kaggle.com/c/humpback-whale-identification}.
+
 
 ### Problem Statement
 _(approx. 1 paragraph)_
 
 In this section, clearly describe the problem that is to be solved. The problem described should be well defined and should have at least one relevant potential solution. Additionally, describe the problem thoroughly such that it is clear that the problem is quantifiable (the problem can be expressed in mathematical or logical terms) , measurable (the problem can be measured by some metric and clearly observed), and replicable (the problem can be reproduced and occurs more than once).
+The problem that is to be solved is the classification of the whales by looking at pictures of thier tails.We take 25,000 images of whales' tails and we need to identify the breed of the whale.I wou 
 
 ### Datasets and Inputs
 _(approx. 2-3 paragraphs)_
